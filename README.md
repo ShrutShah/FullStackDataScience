@@ -1,1 +1,1 @@
-# Assignments
+# Full Stack Data Science Assignments
